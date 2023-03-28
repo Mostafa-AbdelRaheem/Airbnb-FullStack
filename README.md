@@ -1,4 +1,4 @@
-# NETFLIX_CLONE
+# AIRBNB_CLONE
 
 This website clone of Airbnb ,the aim of this project to practice fullstack web development using React.js as frontend and Node.js as backend .
 
